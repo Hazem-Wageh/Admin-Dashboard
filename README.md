@@ -1,13 +1,94 @@
-# HTML-CSS-Template_Four
+# 📊 Admin Dashboard
+
+## 📌 Overview
+This project is a modern and fully responsive **Admin Dashboard** built using **HTML5 and CSS3**.  
+It simulates a real-world platform for managing users, courses, projects, and subscriptions, with a clean and user-friendly interface.
+
+---
+
+## 🚀 Features
+- 📊 Dashboard overview with statistics and widgets  
+- ⚙️ Settings page for user preferences  
+- 👤 Profile management page  
+- 📁 Projects tracking section  
+- 📚 Courses section with selling features and discounts  
+- 👥 Friends / users list  
+- 📂 Files management system  
+- 💳 Plans & pricing section  
+- 📱 Fully responsive design (Mobile / Tablet / Desktop)  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+
+---
+
+## 📁 Pages Included
+- Dashboard (Home)  
+- Settings  
+- Profile  
+- Projects  
+- Courses  
+- Friends  
+- Files  
+- Plans  
+
+---
+
+## 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](Scereenshot/Scereenshot 1.png)
+
+### 👤 Profile Page
+![Profile](Scereenshot/Scereenshot 3.png)
+
+### 📚 Courses Page
+![Courses](Scereenshot/Scereenshot 6.png)
+
+### 💳 Plans Page
+![Plans](Scereenshot/Scereenshot 7.png)
+
+
+---
+
+## 🔗 Live Demo
+👉 [View Live Demo](https://yourusername.github.io/dashboard-project/)
+
+---
+
+## 📚 What I Learned
+- Building complex multi-page layouts  
+- Using **CSS Grid & Flexbox** for structured UI  
+- Designing scalable dashboard interfaces  
+- Creating responsive layouts for different devices  
+- Organizing large frontend projects  
+
+---
+
+## 👨‍💻 My Role
+- Designed and developed the full dashboard UI  
+- Built all pages and components from scratch  
+- Implemented responsive layouts using modern CSS techniques  
+
+---
+
+## 📬 Contact
+- GitHub: https://github.com/Hazem-Wageh  
+- LinkedIn: (https://www.linkedin.com/in/hazem-wageh/)
+
+---
+
+## 🙌 Acknowledgment
+This project is part of my frontend development journey and portfolio.
 Dashboard
 📊 Hazem Dashboard - Admin Panel
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge
 https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white
-
-✨ Project Overview
-A comprehensive and modern admin dashboard built with pure HTML and CSS, featuring multiple sections for complete management system.
 
 🎨 Design System
 Color Palette
