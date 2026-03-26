@@ -55,7 +55,7 @@ It simulates a real-world platform for managing users, courses, projects, and su
 ---
 
 ## 🔗 Live Demo
-👉 [View Live Demo](https://yourusername.github.io/dashboard-project/)
+👉 [View Live Demo](https://hazem-wageh.github.io/Admin-Dashboard/)
 
 ---
 
